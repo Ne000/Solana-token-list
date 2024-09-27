@@ -1,9 +1,9 @@
 {
   "chainId": 101,
-  "address": "sGjXw5vGc7yVZFoapyjkUGuRiSoStrAmYE62Koxv32Q",  // Your token address
-  "symbol": "ECZ",  // Your token symbol
-  "name": "EcoCitiZenz",  // Your token name
-  "decimals": 2,  // Number of decimals your token has
-  "logoURI": "https://github.com/Ne000/EcoCitiZenz-token/blob/main/ECZ%20(4).png?raw=true",  // Direct raw URL of your logo
-  "tags": ["community-token"]  // Descriptive tags for your token
+  "address": "sGjXw5vGc7yVZFoapyjkUGuRiSoStrAmYE62Koxv32Q",
+  "symbol": "ECZ",
+  "name": "EcoCitiZenz",
+  "decimals": 2,
+  "logoURI": "https://github.com/Ne000/EcoCitiZenz-token/blob/main/ECZ%20(4).png?raw=true",
+  "tags": ["community-token"]
 }
